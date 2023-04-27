@@ -1,0 +1,13 @@
+Descriptions for all the functions in the main code:
+
+display_and_input() - This function displays the TODO™ LIST MANAGER menu and takes input from the user to perform various actions such as viewing the list, adding a task, removing a task, or quitting the program.
+
+createDirectory() - This function creates a JSON file called 'Tasks.json' to store the TODO™ list data.
+
+viewList() - This function displays the current TODO™ list stored in the 'Tasks.json' file. If there are no tasks, it will print a message indicating that there are no tasks available.
+
+add_task(task) - This function takes a task as input and adds it to the TODO™ list stored in the 'Tasks.json' file.
+
+remove_task(task_number) - This function takes a task number as input and removes the corresponding task from the TODO™ list stored in the 'Tasks.json' file.
+
+main() - This function is the main entry point of the program. It displays the TODO™ LIST MANAGER menu and prompts the user to login, register, logout, or save data. If the user is logged in, it calls the display_and_input() function to perform the desired actions.
