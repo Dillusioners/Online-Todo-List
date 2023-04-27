@@ -14,7 +14,7 @@
 *Nationality:* India<br/>
 
 
-# ABOUT Project
+# ABOUT PROJECT
 *Name:* Online Todo List<br/>
 *Version:* 1<br/>
 *Language:* Python<br/>
